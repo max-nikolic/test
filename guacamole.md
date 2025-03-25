@@ -3,4 +3,4 @@
 
 * avocado
 ## Instructions
-* put avocado in a bowl
+* put three avocadoes into a huge bowl
